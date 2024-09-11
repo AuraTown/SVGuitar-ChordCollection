@@ -1,0 +1,16 @@
+{
+  "name": "SVGuitar-ChordCollection",
+  "version": "1.0.0",
+  "description": "A sample project using SVGuitar-ChordCollection from GitHub",
+  
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/your-project.git"
+  },
+  "author": " ",
+  "license": "?",
+  "dependencies": {
+    "SVGuitar-ChordCollection": "github:AuraTown/SVGuitar-ChordCollection"
+  }
+}
