@@ -2,7 +2,7 @@
   "name": "SVGuitar-ChordCollection",
   "version": "1.0.0",
   "description": "A sample project using SVGuitar-ChordCollection from GitHub",
-  
+ "main": "index.js",
  
   "repository": {
     "type": "git",
